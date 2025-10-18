@@ -6,7 +6,7 @@
   "author": "truong.nguyen@elpis.game",
   "license": "MIT",
   "dependencies": {
-    "@mysten/sui.js": "^0.54.0",
+    "@mysten/sui.js": "^0.54.1",
     "dotenv": "^16.4.5",
     "gql.tada": "^1.7.0"
   }
